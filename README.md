@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Monolisa&size=30&duration=4000&pause=300&color=7624F7&center=true&vCenter=true&random=false&width=435&lines=Hello+World!+%F0%9F%8C%8E;I'm+Juan+Pablo" alt="Typing SVG" />
-</a>
+</h1>
 
 <h3 align="center">A passionate software engineer from Colombia</h3>
 
