@@ -11,23 +11,26 @@
 
 🎓 Studied Systems Engineering at the Universidad Escuela Colombiana de Ingeniería Julio Garavito, Colombia.
 
-🌱 I’m currently learning Spring, Angular and UiPath.
+🌱 I’m currently learning Spring and Angular.
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/juanpasan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <!--a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a-->
 </div>
 
-<h2 align="center">Skills</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,maven,gradle,spring,py,cpp,js,angular,react,r" /> <br />
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,aws,azure,gcp,idea,pycharm,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=java,maven,gradle,spring,py,js,ts,angular,react" /> <br />
+    <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,aws,azure,gcp,git" />
+</div>
+
+<h2 align="center">Tools</h2>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,eclipse,github,gitlab,idea,postman,pycharm,vscode" />
 </div>
 
 <h2 align="center">Stats</h2>
