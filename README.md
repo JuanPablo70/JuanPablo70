@@ -10,21 +10,19 @@
 💻 Software Engineer experienced in software development, eager to explore and learn new technologies.
 
 🎓 Studied Systems Engineering at the Universidad Escuela Colombiana de Ingeniería Julio Garavito, Colombia.
-
-🌱 I’m currently learning Spring and Angular.
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/juanpasan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://skillicons.dev/icons?i=linkedin" target="_blank" />
   </a>
 </div>
 
 <h2 align="center">Tech Stack</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,maven,gradle,spring,py,js,ts,angular,react" /> <br />
-    <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,aws,azure,gcp,git" />
+    <img src="https://skillicons.dev/icons?i=java,maven,gradle,spring,py,js,ts,angular" /> <br />
+    <img src="https://skillicons.dev/icons?i=react,docker,postgres,mysql,aws,azure,gcp,git" />
 </div>
 
 <h2 align="center">Tools</h2>
